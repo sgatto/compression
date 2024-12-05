@@ -111,7 +111,7 @@ def get_images(
 
 ## Entraînement d'un modèle simple
 
-Nous allons maintenant entraîner un modèle de classification d'images&nbsp;: le modèle historique LeNet. En voici une implémentation. Adaptez-la pour enregistrer le modèle appris avec `dvclive` et intégrez-la au dossier de sources Python.
+Nous allons maintenant entraîner un modèle de classification d'images&nbsp;: le modèle historique LeNet. En voici une implémentation. Adaptez-la pour enregistrer le modèle appris avec `dvc` et intégrez-la au dossier de sources Python.
 
 ### Modèle
 
